@@ -1,6 +1,6 @@
 ## Oi! Eu sou o Agnaldo Guimarães, Engenheiro da Computação, desenvolvedor .Net
 
-- 🔭 Atualmente trabalhando com .Net C# Core
+- 🔭 Atualmente trabalhando com C# .Net
 - 👯 Estudando Front-end html, css, javascript
 
 <div align="center">
