@@ -1,7 +1,7 @@
-## Oi! Eu sou o Agnaldo Guimarães, Engenheiro da Computação, desenvolvedor .Net
+## Hi! I'm Agnaldo Guimarães, Computer Engineer, .Net developer
 
-- 🔭 Atualmente trabalhando com C# .Net
-- 👯 Estudando Front-end html, css, javascript
+- 🔭 Currently working with C# .Net
+- 👯 Studying Front-end html, css, javascript
 
 <div align="center">
   <a href="https://github.com/agnaldoguima">
