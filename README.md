@@ -1,6 +1,6 @@
 ## Hi! I'm Agnaldo Guimarães, Computer Engineer, .Net developer
 
-- 🔭 Currently working with C# .Net
+- 🔭 Currently working with C# .Net, Xamarin and MAUI
 - 👯 Studying Front-end html, css, javascript
 
 <div align="center">
